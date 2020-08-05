@@ -1,0 +1,47 @@
+.App {}
+
+.App-header {
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.App-header .create-btn {
+    float: right;
+    cursor: pointer;
+}
+.App-header .create-btn .btn-text {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    font-size: 20px;
+    line-height: 48px;
+}
+.App-header .create-btn .btn-icon {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    margin-left: 10px;
+    vertical-align: middle;
+    background-image: url("./icons/plus.png");
+    background-size: 100% 100%;
+}
+
+
+.App-content {}
+
+.todo-list .delete-icon {
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    vertical-align: middle;
+    background-image: url("./icons/remove.png");
+    background-size: 100% 100%;
+    cursor: pointer;
+}
+
+.todo-list .edit-btn  {
+    cursor: pointer;
+}
+
+.modal .modal-backdrop {
+    z-index: -1;
+}
