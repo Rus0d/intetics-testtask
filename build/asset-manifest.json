@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/intetics-testtask/static/css/main.5cc2fa68.chunk.css",
+    "main.js": "/intetics-testtask/static/js/main.650c40c9.chunk.js",
+    "main.js.map": "/intetics-testtask/static/js/main.650c40c9.chunk.js.map",
+    "runtime-main.js": "/intetics-testtask/static/js/runtime-main.7fc524e5.js",
+    "runtime-main.js.map": "/intetics-testtask/static/js/runtime-main.7fc524e5.js.map",
+    "static/js/2.387ce8a7.chunk.js": "/intetics-testtask/static/js/2.387ce8a7.chunk.js",
+    "static/js/2.387ce8a7.chunk.js.map": "/intetics-testtask/static/js/2.387ce8a7.chunk.js.map",
+    "index.html": "/intetics-testtask/index.html",
+    "precache-manifest.3f36539964c7ffb729be0174ac89a8dd.js": "/intetics-testtask/precache-manifest.3f36539964c7ffb729be0174ac89a8dd.js",
+    "service-worker.js": "/intetics-testtask/service-worker.js",
+    "static/css/main.5cc2fa68.chunk.css.map": "/intetics-testtask/static/css/main.5cc2fa68.chunk.css.map",
+    "static/js/2.387ce8a7.chunk.js.LICENSE.txt": "/intetics-testtask/static/js/2.387ce8a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fc524e5.js",
+    "static/js/2.387ce8a7.chunk.js",
+    "static/css/main.5cc2fa68.chunk.css",
+    "static/js/main.650c40c9.chunk.js"
+  ]
+}
