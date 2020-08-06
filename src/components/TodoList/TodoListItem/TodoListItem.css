@@ -1,0 +1,26 @@
+.todo-list-item .mail-icon {
+    display: inline-block;
+    height: 24px;
+    width: 24px;
+    vertical-align: sub;
+    background-image: url("../../../icons/envelope.png");
+    background-size: 100% 100%;
+    margin-right: 20px;
+}
+.todo-list-item .delete-icon {
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    vertical-align: middle;
+    background-image: url("../../../icons/remove.png");
+    background-size: 100% 100%;
+    cursor: pointer;
+}
+.todo-list .edit-btn  {
+    cursor: pointer;
+}
+.todo-list-item .text-overflow {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
